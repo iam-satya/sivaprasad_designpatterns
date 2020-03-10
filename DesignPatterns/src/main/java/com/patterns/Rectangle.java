@@ -1,0 +1,10 @@
+package com.patterns;
+
+public class Rectangle implements Shape 
+{
+
+	   
+	   public void draw() {
+	      System.out.println("Rectangle::draw() method.");
+	   }
+	}
